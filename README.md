@@ -1,6 +1,6 @@
 <div align="center">
 
-[![sayfulislam](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=1E9AA8&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Sayful+Md+Islam)](https://github.com/sayfulislam)
+[![sayfulislam](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=1E9AA8&center=true&vCenter=true&repeat=false&width=420&height=45&lines=Sayful+Islam)](https://github.com/sayfulislam)
 
 PQS Japan · Senior Software Engineer · Azure DevOps · Cosmos SDK validator operator
 
