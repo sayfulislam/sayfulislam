@@ -10,9 +10,6 @@ Cosmos SDK validator infrastructure.
 🗣 LANGUAGE
 English (business) · 日本語 JLPT Level N3 · Bengali (native)
 
-📜 CERTIFICATIONS
-Microsoft Certified: DevOps Engineer Expert (AZ-400)  ·  Azure Fundamentals (AZ-900)
-
 ---
 
 **東京在住のインフラ / DevOps エンジニアです。**
