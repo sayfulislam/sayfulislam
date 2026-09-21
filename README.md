@@ -1,16 +1,33 @@
-## Hi there 👋
+# Sayful Islam / サイフル イスラム
 
-<!--
-**sayfulislam/sayfulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer — Cloud Infrastructure & DevOps** · Tokyo, Japan 🇯🇵
 
-Here are some ideas to get you started:
+10+ years building and running production systems. Currently IT Team Lead at
+PQS Japan Co., Ltd. Also operating [Testnet Validator](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1tz7lr0dfg8849lduuwzt4valqfxw95v902ea2q) —
+Cosmos SDK validator infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣 English (business) · 日本語 JLPT N3 · Bengali (native)
+📜 Microsoft AZ-104 (Azure Administrator Associate) · AZ-900
+
+---
+
+**東京在住のインフラ / DevOps エンジニアです。**
+.NET Core と Azure を中心に、15年間バックエンドとサーバー運用を担当してきました。
+日本語は JLPT N3、業務では英語と日本語を使用しています。
+
+---
+
+### Stack
+**Cloud / Infra** Azure · Terraform · Docker · Kubernetes · Nginx · IIS · Cloudflare
+**CI/CD** GitHub Actions · GitLab CI
+**Monitoring** Prometheus · Grafana · Loki
+**Backend** C# / .NET Core · Python · SQL Server · Oracle · Redis
+**Frontend** Angular · Next.js · TypeScript
+**Web3** Cosmos SDK validators (Cosmos Hub, Neutron, Babylon)
+
+%%
+### Pinned work
+See the pinned repos below 👇 — infrastructure automation, Azure IaC,
+GitOps, and observability, all runnable from a clean machine.
+%%
+📫 sayful23@gmail.com · [LinkedIn](https://linkedin.com/in/tosayful) 
