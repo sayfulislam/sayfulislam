@@ -26,4 +26,4 @@ English (business) · 日本語 JLPT Level N3 · Bengali (native)
 **Frontend** Angular · Next.js · TypeScript
 **Web3** Cosmos SDK validators (Cosmos Hub, Neutron, Babylon)
 
-📫 Contact: sayful23@gmail.com | [Webiste](https://sayfulislam.github.io) | [LinkedIn](https://linkedin.com/in/tosayful) | [GitHub](https://github.com/sayfulislam)
+📫 Contact: sayful23@gmail.com | [Website](https://sayfulislam.github.io) | [LinkedIn](https://linkedin.com/in/tosayful) | [GitHub](https://github.com/sayfulislam)
