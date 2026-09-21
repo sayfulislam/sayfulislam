@@ -65,8 +65,8 @@ PQS Japan · Senior Software Engineer · Azure DevOps · Cosmos SDK validator op
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=sayfulislam&show_icons=true&title_color=1E9AA8&text_color=c9d1d9&icon_color=1E9AA8&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayfulislam&title_color=1E9AA8&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8)
+![stats](https://github-readme-stats-fast.vercel.app/api?username=sayfulislam&show_icons=true&title_color=1E9AA8&text_color=c9d1d9&icon_color=1E9AA8&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sayfulislam&title_color=1E9AA8&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8)
 
 ![streak](https://streak-stats.demolab.com?user=sayfulislam&hide_border=true&background=00000000&ring=1E9AA8&fire=1E9AA8&currStreakLabel=1E9AA8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681)
 
