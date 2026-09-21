@@ -25,9 +25,5 @@ Cosmos SDK validator infrastructure.
 **Frontend** Angular · Next.js · TypeScript
 **Web3** Cosmos SDK validators (Cosmos Hub, Neutron, Babylon)
 
-%%
-### Pinned work
-See the pinned repos below 👇 — infrastructure automation, Azure IaC,
-GitOps, and observability, all runnable from a clean machine.
-%%
+
 📫 sayful23@gmail.com · [LinkedIn](https://linkedin.com/in/tosayful) 
