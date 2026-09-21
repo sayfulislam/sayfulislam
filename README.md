@@ -3,11 +3,15 @@
 **Senior Software Engineer — Cloud Infrastructure & DevOps** · Tokyo, Japan 🇯🇵
 
 10+ years building and running production systems. Currently IT Team Lead at
-PQS Japan Co., Ltd. Also operating [Testnet Validator](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1tz7lr0dfg8849lduuwzt4valqfxw95v902ea2q) —
+PQS Japan Co., Ltd. Also operating [ICS Testnet Validator](https://www.mintscan.io/ics-testnet-provider/validators/cosmosvaloper1tz7lr0dfg8849lduuwzt4valqfxw95v902ea2q) —
 Cosmos SDK validator infrastructure.
 
-🗣 English (business) · 日本語 JLPT N3 · Bengali (native)
-📜 Microsoft AZ-104 (Azure Administrator Associate) · AZ-900
+
+🗣 LANGUAGE
+English (business) · 日本語 JLPT Level N3 · Bengali (native)
+
+📜 CERTIFICATIONS
+Microsoft Certified: DevOps Engineer Expert (AZ-400)  ·  Azure Fundamentals (AZ-900)
 
 ---
 
@@ -25,5 +29,4 @@ Cosmos SDK validator infrastructure.
 **Frontend** Angular · Next.js · TypeScript
 **Web3** Cosmos SDK validators (Cosmos Hub, Neutron, Babylon)
 
-
-📫 sayful23@gmail.com · [LinkedIn](https://linkedin.com/in/tosayful) 
+📫 Contact: sayful23@gmail.com | [LinkedIn](https://linkedin.com/in/tosayful) | [GitHub](https://github.com/sayfulislam)
