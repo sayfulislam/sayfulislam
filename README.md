@@ -58,10 +58,9 @@ PQS Japan · Senior Software Engineer · Azure DevOps · Cosmos SDK validator op
 
 | Project | What it does | Stars |
 |---|---|---|
-| [`sayfulislam.github.io`](https://github.com/sayfulislam/sayfulislam.github.io) | Portfolio site — experience, projects, skills. Plain HTML/CSS, deployed on GitHub Pages. | ![](https://img.shields.io/github/stars/sayfulislam/sayfulislam.github.io?style=flat-square&logo=github&label=&color=1E9AA8) |
 | [`cosmos-validator-infra`](https://github.com/sayfulislam/cosmos-validator-infra) | Docker Compose + Nginx validator/sentry setup for Cosmos SDK chains, with Prometheus, Grafana and Loki monitoring. | ![](https://img.shields.io/github/stars/sayfulislam/cosmos-validator-infra?style=flat-square&logo=github&label=&color=1E9AA8) |
 | [`linux101`](https://github.com/sayfulislam/linux101) | Shell scripts and notes from day-to-day Linux server administration. | ![](https://img.shields.io/github/stars/sayfulislam/linux101?style=flat-square&logo=github&label=&color=1E9AA8) |
-| [`angular-hero-sample`](https://github.com/sayfulislam/angular-hero-sample) | Angular sample app — components, services and routing. | ![](https://img.shields.io/github/stars/sayfulislam/angular-hero-sample?style=flat-square&logo=github&label=&color=1E9AA8) |
+| [`fiber-link-validation`](https://github.com/sayfulislam/fiber-link-validation) | Field guide to validating GPU-to-TOR fiber links in AI data centers — RCA, error types, a 7-step framework and checklist. | ![](https://img.shields.io/github/stars/sayfulislam/fiber-link-validation?style=flat-square&logo=github&label=&color=1E9AA8) |
 
 <div align="center">
 
