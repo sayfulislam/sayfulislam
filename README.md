@@ -6,7 +6,6 @@ Senior Software Engineer · DevOps · DC Commissioning & Validation
 
 [![](https://img.shields.io/badge/Portfolio-sayfulislam.github.io-1E9AA8?style=flat-square&logo=githubpages&logoColor=white)](https://sayfulislam.github.io)
 [![](https://img.shields.io/badge/LinkedIn-tosayful-1E9AA8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tosayful/)
-[![](https://img.shields.io/badge/EazeIT-Validator-1E9AA8?style=flat-square&logo=cosmos&logoColor=white)](https://eazeit.jp)
 [![](https://img.shields.io/badge/Azure-AZ--900_|_AZ--400-1E9AA8?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/)
 
 </div>
